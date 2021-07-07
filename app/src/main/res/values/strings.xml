@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationPermission</string>
+    <string name="button">Get Permission</string>
+</resources>
